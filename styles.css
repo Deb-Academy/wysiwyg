@@ -1,0 +1,17 @@
+.document {
+    border: 1px solid gray;
+    width: 80%;
+    min-height: 50vh;
+    padding: 10px;
+    
+}
+header {
+    display: flex;
+    align-items: center;
+}
+button {
+    border: none;
+    background-color: whitesmoke;
+    padding: 5px 10px;
+    font-size: 16px;
+}
